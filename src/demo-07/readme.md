@@ -1,0 +1,3 @@
+# server端渲染文件改为用json
+需用webpack打包输出一个json文件，替代传统的js文件，然后启动nodejs server
+输出的json描述了源代码的内容
